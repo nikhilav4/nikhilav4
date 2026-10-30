@@ -7,13 +7,14 @@ compliance teams need before software ships.
 
 The projects here come from problems I've worked on: keeping a RAID log honest, forecasting when
 work will actually ship, checking whether a release is safe to go live, and whether health data can
-be trusted. Each one runs on synthetic data, so anyone can try it.
+be trusted. The tools run on synthetic data, so anyone can try them.
 
 ### Projects
 
 | Project | What it does | Built with |
 |---|---|---|
 | [raid-log](https://github.com/nikhilav4/raid-log) | RAID log as code: validation, status reports, a risk heatmap, and what changed since the last steering meeting | Python |
+| [healthcare-sdlc-templates](https://github.com/nikhilav4/healthcare-sdlc-templates) | Templates for running a healthcare IT software project through the SDLC, from charter to hypercare | Markdown |
 
 More are in progress and will appear here as they go public.
 
